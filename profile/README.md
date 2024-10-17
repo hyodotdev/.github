@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-We build an ambitious project that makes people's success and achievements enjoyable and fulfilling.
+We are developers and we work for startups.
 
-🙋‍♀️ Find about us in [dooboolab.com](https://dooboolab.com)
+🙋‍♀️ Find about us in [hyo.dev](https://hyo.dev)
