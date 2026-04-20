@@ -1,8 +1,8 @@
-# hyo.dev
+# [hyo.dev](https://hyo.dev)
 
 Building developer infrastructure, with OpenIAP as the primary project.
 
-## OpenIAP
+## [OpenIAP](https://openiap.dev)
 
 Unified in-app purchase infrastructure used across mobile and cross-platform apps.
 
